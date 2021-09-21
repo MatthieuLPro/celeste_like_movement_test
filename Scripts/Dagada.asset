@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8d599159b742614c87030f3148a33b4, type: 3}
+  m_Name: Dagada
+  m_EditorClassIdentifier: 
+  speed: 8
+  jumpForce: 10
+  slideSpeed: 1
+  wallJumpLerp: 0
+  dashSpeed: 50
+  canMove: 1
+  wallGrab: 0
+  wallJumped: 0
+  wallSlide: 0
+  isDashing: 0
+  hasDashed: 0
+  side: -1
